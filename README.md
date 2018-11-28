@@ -12,5 +12,5 @@ _Italic text woohoooooo_
 
 >is this greentext
 ```
-This looks like
+This looks like code
 ```
